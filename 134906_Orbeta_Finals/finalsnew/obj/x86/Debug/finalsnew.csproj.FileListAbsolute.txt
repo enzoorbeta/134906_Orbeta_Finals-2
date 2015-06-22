@@ -1,0 +1,13 @@
+\\psf\Home\Documents\Visual Studio 2010\Projects\finalsnew\finalsnew\bin\Debug\finalsnew.exe
+\\psf\Home\Documents\Visual Studio 2010\Projects\finalsnew\finalsnew\bin\Debug\finalsnew.pdb
+\\psf\Home\Documents\Visual Studio 2010\Projects\finalsnew\finalsnew\obj\x86\Debug\ResolveAssemblyReference.cache
+\\psf\Home\Documents\Visual Studio 2010\Projects\finalsnew\finalsnew\obj\x86\Debug\finalsnew.Addform.resources
+\\psf\Home\Documents\Visual Studio 2010\Projects\finalsnew\finalsnew\obj\x86\Debug\finalsnew.Editform.resources
+\\psf\Home\Documents\Visual Studio 2010\Projects\finalsnew\finalsnew\obj\x86\Debug\finalsnew.Form1.resources
+\\psf\Home\Documents\Visual Studio 2010\Projects\finalsnew\finalsnew\obj\x86\Debug\finalsnew.Properties.Resources.resources
+\\psf\Home\Documents\Visual Studio 2010\Projects\finalsnew\finalsnew\obj\x86\Debug\finalsnew.Restockform.resources
+\\psf\Home\Documents\Visual Studio 2010\Projects\finalsnew\finalsnew\obj\x86\Debug\finalsnew.Sellform.resources
+\\psf\Home\Documents\Visual Studio 2010\Projects\finalsnew\finalsnew\obj\x86\Debug\GenerateResource.read.1.tlog
+\\psf\Home\Documents\Visual Studio 2010\Projects\finalsnew\finalsnew\obj\x86\Debug\GenerateResource.write.1.tlog
+\\psf\Home\Documents\Visual Studio 2010\Projects\finalsnew\finalsnew\obj\x86\Debug\finalsnew.exe
+\\psf\Home\Documents\Visual Studio 2010\Projects\finalsnew\finalsnew\obj\x86\Debug\finalsnew.pdb
